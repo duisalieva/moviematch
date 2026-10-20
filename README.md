@@ -43,7 +43,7 @@ The application demonstrates different Compose state management approaches:
 
 ### Movie Selection and Rating
 
-![Movie list](screenshots/movie_list.png)
+![Movie list](screenshots/choose_movie.png)
 
 ### Winner
 
